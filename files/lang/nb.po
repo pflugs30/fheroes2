@@ -192,7 +192,7 @@ msgid "Monster Info"
 msgstr "Monsterinfo"
 
 msgid "Toggle the monster info window, which shows information on the active and targeted monsters."
-msgstr "Slå på/av vinduet med monsterinfo. Vinduet viser detaljer om de nåværende og utvalgte monstrene."
+msgstr "Slå av eller på vinduet med monsterinfo. Vinduet viser detaljer om de nåværende og utvalgte monstrene."
 
 msgid "Auto Spell Casting"
 msgstr ""
