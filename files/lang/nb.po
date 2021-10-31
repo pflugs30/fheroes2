@@ -200,8 +200,7 @@ msgstr ""
 "trylling"
 
 msgid "Toggle whether or not the computer will cast spells for you when auto combat is on. (Note: This does not affect spell casting for computer players in any way, nor does it affect quick combat.)"
-msgstr ""
-"Velg om datamaskinen skal bruke trolldommer når autokamp er skrudd på. (Merk: Dette påvirker ikke magibruken til datamaskinspillere på noen som helst måte, og det påvirker heller ikke hurtigkamp.)"
+msgstr "Velg om datamaskinen skal bruke trolldommer når autokamp er skrudd på. (Merk: Dette påvirker ikke magibruken til datamaskinspillere på noen som helst måte, og det påvirker heller ikke hurtigkamp.)"
 
 msgid "Grid"
 msgstr "Rutenett"
